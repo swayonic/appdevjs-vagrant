@@ -14,4 +14,4 @@ My Vagrant box for http://github.com/appdevdesigns/appdevjs
 
 After that, you can clone the above repository (or any other NodeJS project) into your home directory.
 
-NOTE: don't do it into a shared drive or the install will break when it tries to create symlinks. mishoo/UglifyJS#453
+NOTE: don't do it into a shared drive or the install will break when it tries to create symlinks (http://github.com/mishoo/UglifyJS/issues/453).
