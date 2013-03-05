@@ -1,6 +1,6 @@
 # appdevjs-vagrant
 
-My Vagrant box for http://github.com/appdevdesigns/appdevjs
+My Vagrant box for [appdevdesigns/appdevjs](http://github.com/appdevdesigns/appdevjs)
 
 * Install Vagrant
 * Clone this repository
@@ -14,4 +14,4 @@ My Vagrant box for http://github.com/appdevdesigns/appdevjs
 
 After that, you can clone the above repository (or any other NodeJS project) into your home directory.
 
-NOTE: don't do it into a shared drive or the install will break when it tries to create symlinks (http://github.com/mishoo/UglifyJS/issues/453).
+NOTE: don't do it into a shared drive or the install will break when it tries to create symlinks (See here: [mishoo/UglifyJS#453](http://github.com/mishoo/UglifyJS/issues/453)).
